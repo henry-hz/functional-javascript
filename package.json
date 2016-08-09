@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/henry-hz/functional-javascript/issues"
   },
-  "homepage": "https://github.com/henry-hz/functional-javascript#readme"
+  "homepage": "https://github.com/henry-hz/functional-javascript#readme",
+  "dependencies": {
+    "ramda": "^0.22.1"
+  }
 }
