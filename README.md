@@ -9,10 +9,11 @@ https://drboolean.gitbooks.io/mostly-adequate-guide/content/
 
 ### why
 
-1. computers are having more parallel processors, so spliting processing needs a
-clear division between the data and processing.
-2. shared-state in multi-threading is almost impossible to be buggy-free
-3. ....
+1. Modularity - A software is modular to the extend that its parts can be
+separated and recombined. -> [Reusable, Testable, Parallelizable].
+2. Compositionality - Software is compositional to the extent that the meaning
+of the whole is constructed from the meaning of its parts -> [Scalable,
+Reasonable]
 
 
 ### javascript becoming functional
@@ -30,7 +31,11 @@ clear division between the data and processing.
 5. Functors
 6. Aplicatives
 6. Monads
+  - https://github.com/douglascrockford/monad/blob/master/monad.js)
+  - http://modernjavascript.blogspot.co.il/2013/06/monads-in-plain-javascript.html
+  - https://jcouyang.gitbooks.io/functional-javascript/content/en//
 7. Recursion
+8. [Lifting](http://www.aaronhsmith.com/2015/08/21/introduction-functional-programming-javascript/)
 8. Destructuring Assignment
 
 
