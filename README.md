@@ -14,6 +14,12 @@ separated and recombined. -> [Reusable, Testable, Parallelizable].
 2. Compositionality - Software is compositional to the extent that the meaning
 of the whole is constructed from the meaning of its parts -> [Scalable,
 Reasonable]
+3. Think about how powerful numbers are, you use them for billions of different
+cases, they are a super reusable model. But if you had to multiply 3 chairs vs 3
+cars, the power of numbers would be completely limitated.
+
+### opinions
+1. https://www.reddit.com/r/programming/comments/3zey0z/after_decades_of_neglect_functional_programming/
 
 
 ### javascript becoming functional
