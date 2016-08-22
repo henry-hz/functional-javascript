@@ -67,4 +67,9 @@ https://www.sitepoint.com/recursion-functional-javascript/
 http://es6-features.org/#ArrayMatching 
 http://adit.io/posts/2013-06-10-three-useful-monads.html 
 https://www.youtube.com/watch?v=m3svKOdZijA&app=desktop 
-http://randycoulman.com/blog/categories/thinking-in-ramda/
+http://randycoulman.com/blog/categories/thinking-in-ramda/ 
+http://www.aaronhsmith.com/2015/09/08/introduction-monads-javascript/  -> good!  
+http://jrsinclair.com/articles/2016/marvellously-mysterious-javascript-maybe-monad/ 
+https://james-forbes.com/?/posts/the-perfect-api 
+https://github.com/fantasyland/fantasy-land 
+
